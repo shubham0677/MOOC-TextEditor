@@ -1,4 +1,4 @@
-# MOOC-TextEditor
+# Java Text Editor
 A Text editor in Java developed during Coursera Java Object-Oriented Specialization
 
 -Implemented Document Benchmarking
